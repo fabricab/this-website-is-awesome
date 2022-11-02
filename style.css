@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 header{
     background-color: #1f2937;
 }   
@@ -11,8 +14,17 @@ nav{
     font-size: 24px;
     margin-left: 200px;
     color: #f9faf8;
-    
 }
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.subtext{
+    font-size: 18px;
+    color:#e5e7eb ;
+}
+
 .linkcontainer{
    font-size: 18px;
    margin-right:80px ;
@@ -30,6 +42,20 @@ ul{
     gap: 12px;
 }
 .hero{
+    display: flex; 
+    justify-content: space-between; 
+}
+.containertexto{
     display: flex;
-   
+    flex-direction: column;
+    max-width: 300px;
+
+}
+button{
+    width: 130px;
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+img{
+    margin-right: 60px;
 }
