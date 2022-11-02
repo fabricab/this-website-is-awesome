@@ -1,0 +1,16 @@
+.headerLogo{
+    font-size: 24px;
+    
+}
+.linkHeader{
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
