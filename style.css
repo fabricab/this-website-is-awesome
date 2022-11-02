@@ -1,16 +1,26 @@
-.headerLogo{
-    font-size: 24px;
-    
-}
-.linkHeader{
-    font-size: 18px;
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
+.headerLogo{
+    font-size: 24px;
+    margin-left: 200px;
+    
+}
+.linkcontainer{
+   font-size: 18px;
+   margin-right:80px ;
+}
 a{
     text-decoration: none;
 }
 ul{
     list-style-type: none;
     margin: 0;
+    display: flex;
     padding: 0;
+    gap: 12px;
+ 
 }
