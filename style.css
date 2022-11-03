@@ -104,6 +104,36 @@ h3{
     display: flex;
     justify-content: end;
 }
-section{
+.randominfo{
     margin-bottom: 70px;
+}
+
+.callbutton{
+   
+    background-color:#3882f6;
+    border-radius: 10px;
+    max-width: 760px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    gap: 30px;
+} 
+   
+.calltitle{
+    color: #f9faf8;
+}
+.callsubtitle{
+    color: #e5e7eb;
+}
+button{
+    border-radius: 10px;
+    border-color:#f9faf8;
+    font-size:18px;
+    color: #f9faf8;
+}
+.button{
+    display: flex;
+    align-items: center;
 }
