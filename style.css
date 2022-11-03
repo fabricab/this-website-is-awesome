@@ -60,7 +60,8 @@ button{
 .heroimg{
     height: 250px;
     display: flex;
-    margin-top:30px ;      
+    margin-top:30px ; 
+    border-style:outset;     
 }
 .mainimg{
     margin-top: 30px;
@@ -151,4 +152,20 @@ footer{
 }
 .calltext{
     padding-left: 10px;
+}
+img[src="imagenes/cbt28635-eco-150x150px.jpg"]{
+border-style: solid;
+border-color: darkcyan;
+
+}
+img[src="imagenes/kxov0rcoi4p21 (1).jpg"]{
+    border-style:solid ;
+    border-color:cyan
+
+}
+
+img[src="imagenes/please_read_icon_150x150.jpg"]{
+    border-style: solid;
+    border-color: crimson;
+
 }
