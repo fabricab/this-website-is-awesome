@@ -121,6 +121,7 @@ h3{
     gap: 30px;
     padding-left: 20px;
     padding-right: 20px;
+    margin-bottom:50px;
 } 
    
 .calltitle{
@@ -138,6 +139,7 @@ button{
 .button{
     display: flex;
     align-items: center;
+    padding-right: ;
 }
 
 footer{
@@ -146,4 +148,7 @@ footer{
     align-items: center;
     justify-content: center;
     color: #e5e7eb;
+}
+.calltext{
+    padding-left: 10px;
 }
